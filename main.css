@@ -5,10 +5,16 @@ html {
 }
 
 img{
-    font-weight: 500;
+    font-weight: 400;
     left: 350;
     
+    
     }
+
+.tamaño{
+    width: 200px; height: 200px;
+    
+}
 table{
     border: 2px color black solid;
     
