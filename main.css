@@ -7,8 +7,12 @@ html {
 img{
     font-weight: 400;
     left: 350;
+<<<<<<< HEAD
     
     
+=======
+
+>>>>>>> da3ec8c49fe8c2f2d14330c3a799f7a202cb37eb
     }
 
 .tamaño{
@@ -17,9 +21,9 @@ img{
 }
 table{
     border: 2px color black solid;
-    
+
     }
-    
+
 body {
     background: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
@@ -84,7 +88,7 @@ img {
 }
 
 ul{
-    
+
 	color:blueviolet;
 	font-weight:500;
 	font-family:'Helvetica';
@@ -95,7 +99,7 @@ li{
 	font-weight:500;
 	font-family:'Helvetica';
 	font-size:20px;
-    
+
 }
 p{
     color:black;
